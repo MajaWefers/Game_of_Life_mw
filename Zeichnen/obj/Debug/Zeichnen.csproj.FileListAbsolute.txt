@@ -1,0 +1,9 @@
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\bin\Debug\Zeichnen.exe.config
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\obj\Debug\Zeichnen.csprojResolveAssemblyReference.cache
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\obj\Debug\Zeichnen.Form1.resources
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\obj\Debug\Zeichnen.Properties.Resources.resources
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\obj\Debug\Zeichnen.csproj.GenerateResource.Cache
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\bin\Debug\Zeichnen.exe
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\bin\Debug\Zeichnen.pdb
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\obj\Debug\Zeichnen.exe
+C:\Users\M_Wb\Desktop\C#_Projekte\Zeichnen\Zeichnen\obj\Debug\Zeichnen.pdb
